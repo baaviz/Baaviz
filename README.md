@@ -20,9 +20,7 @@ As a dedicated developer, I’m on a mission to advance the frontiers of technol
 
 Here are some projects that highlight my skills and interests:
 
-- [**AI-Powered Chatbot**](https://github.com/baaviz/chatbot): An advanced chatbot leveraging NLP to effectively handle diverse user queries.
-- [**Personal Portfolio**](https://github.com/baaviz/portfolio): A modern, responsive website designed to showcase my work and expertise.
-- [**Task Manager App**](https://github.com/baaviz/task-manager): A full-stack application for efficient task management featuring robust user authentication.
+still editing this S##t here
 
 ## Unique Skills
 
