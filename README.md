@@ -33,7 +33,8 @@ still editing this S##t here
 I’m always open to collaboration or conversation:
 
 - **Instagram:** [baaviz](https://www.instagram.com/baaviz)
-- **Email:** [bilalsabbarr@gmail.com](mailto:bilalsabbarr@gmail.com)
+
+
 
 ## Fun Fact
 
