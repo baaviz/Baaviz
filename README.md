@@ -32,14 +32,7 @@ still editing this S##t here
 
 I’m always open to collaboration or conversation:
 
-- **Instagram:** [baaviz](https://www.instagram.com/baaviz)
+- **Instagram:** [baaviz](https://www.instagram.com/cva7)
 
 
 
-## Fun Fact
-
-I have a collection of rare programming books, including first editions. I believe that understanding the roots of technology enriches my coding journey!
-
----
-
-Thank you for visiting my GitHub profile! If you appreciate my work, I’d be grateful for a star!
